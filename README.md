@@ -1,263 +1,170 @@
 <div align="center">
 
-# ✨ Otanazarova Shoxruza ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Otanazarova%20Shoxruza&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Python%20%7C%20Data%20Science&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=500&lines=%F0%9F%9A%80+Clean+code!;Full-Stack+Developer+%7C+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;Python+%7C+C%2B%2B+%7C+Data+Science+%7C+REST+API;Always+learning+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=false&width=600&lines=🌸+Full-Stack+Developer+from+Uzbekistan+🇺🇿;⚡+Python+%7C+C%2B%2B+%7C+REST+API+%7C+Django;🗄️+PostgreSQL+%7C+Redis+%7C+Docker;✨+Clean+code%2C+creative+mind%2C+curious+soul)](https://git.io/typing-svg)
 
-<br/>
-
-[![](https://img.shields.io/badge/%E2%9C%A6%20FULL--STACK%20DEV-%23A855F7?style=for-the-badge&labelColor=1a1a2e)](https://github.com/shoxruzaiskandarovan)
-[![](https://img.shields.io/badge/%F0%9F%90%8D%20PYTHON-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e)](https://github.com/shoxruzaiskandarovan)
-[![](https://img.shields.io/badge/%F0%9F%93%8A%20DATA%20SCIENCE-%2300BCD4?style=for-the-badge&labelColor=1a1a2e)](https://github.com/shoxruzaiskandarovan)
-[![](https://img.shields.io/badge/%F0%9F%94%97%20REST%20API-%23FF6B6B?style=for-the-badge&labelColor=1a1a2e)](https://github.com/shoxruzaiskandarovan)
-
-<br/>
-
-![](https://img.shields.io/badge/%E2%97%8F%20Open%20to%20work-%231a1a2e?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/%E2%97%8F%20Uzbekistan%20uz-%231a1a2e?style=flat-square)
-![](https://img.shields.io/badge/%E2%97%8F%20Backend%20Dev-%231a1a2e?style=flat-square)
-![](https://img.shields.io/badge/%E2%97%8F%20C%2B%2B%20%2F%20Python-%231a1a2e?style=flat-square)
-![](https://img.shields.io/badge/%E2%97%8F%20Always%20learning-%231a1a2e?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-FF69B4?style=for-the-badge&logo=briefcase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Uzbekistan-1DB954?style=for-the-badge&logo=flag&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Dev-A855F7?style=for-the-badge&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B%20%7C%20Python-06B6D4?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Always%20Learning-F59E0B?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+</p>
 
 </div>
 
 ---
 
+## 🌸 About Me
+
+<img align="right" width="130" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
+
+Hi! I'm **Shoxruza** — a passionate **Full-Stack Developer** from **Uzbekistan 🇺🇿**
+
+I love building modern web experiences with **clean, efficient code**.
+Specializing in **Python**, **C++**, **REST APIs** & **Data Science**.
+
+- 🔭 Currently working on full-stack web projects
+- 🌱 Exploring **Machine Learning** & **Data Science**
+- ⚡ Love **C++** for algorithms & system programming
+- 🗄️ Experienced with **PostgreSQL**, **MySQL**, **Redis**
+- 💡 **Clean code · Creative mind · Curious soul**
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-| ![coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) | ![data](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif) | ![cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif) |
-|:---:|:---:|:---:|
-| `// coding mode 💻` | `// data magic 🔮` | `// me debugging 🐛` |
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=shoxruzaiskandarovan&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=FF69B4&icon_color=A855F7&text_color=ffffff&border_color=FF69B422&hide_border=false&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoxruzaiskandarovan&layout=compact&theme=radical&bg_color=0d0d0d&title_color=FF69B4&text_color=ffffff&border_color=FF69B422&hide_border=false&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shoxruzaiskandarovan&theme=radical&background=0d0d0d&border=FF69B422&stroke=FF69B4&ring=A855F7&fire=F59E0B&currStreakLabel=06B6D4&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🔴 ABOUT ME
+## 💻 Tech Stack
 
-> Hi! I'm **Shoxruza** — a passionate **Full-Stack Developer** from **Uzbekistan** 🇺🇿 &nbsp;[🐙 github](https://github.com/shoxruzaiskandarovan)
->
-> I love building modern web experiences with **clean, efficient code**.
-> Specializing in **Python, C++, REST APIs** & **Data Science**.
->
-> `Clean code` · `Creative mind` · `Curious soul ✨`
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚡ Backend & Systems
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 📊 Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🛠️ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🔴 GITHUB STATS
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shoxruzaiskandarovan&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=a855f7&icon_color=a855f7&text_color=ffffff&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shoxruzaiskandarovan&theme=radical&hide_border=true&background=0d0d0d&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" width="49%"/>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" style="background:#1a1a2e; border:1px solid #a855f7; padding:10px">
-<h2>50+</h2><sub>COMMITS</sub>
-</td>
-<td align="center" style="background:#1a1a2e; border:1px solid #a855f7; padding:10px">
-<h2>12+</h2><sub>PROJECTS</sub>
-</td>
-<td align="center" style="background:#1a1a2e; border:1px solid #a855f7; padding:10px">
-<h2>6</h2><sub>LANGUAGES</sub>
-</td>
-<td align="center" style="background:#0d2b0d; border:1px solid #4ade80; padding:10px">
-<h2>24+</h2><sub>STARS</sub>
-</td>
-</tr>
-</table>
+![snake gif](https://github.com/shoxruzaiskandarovan/shoxruzaiskandarovan/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-## 🔴 TECH STACK
+## 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,django,postgres,mysql,redis&theme=dark" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,html,css,sklearn&theme=dark" />
+[![Shoxruza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shoxruzaiskandarovan&bg_color=0d0d0d&color=FF69B4&line=A855F7&point=06B6D4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🔴 SKILLS
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🟣 FRONTEND**
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-**🟣 BACKEND**
-
-![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23FF6B6B?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🟣 SYSTEMS**
-
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-%23A855F7?style=flat-square)
-![Algorithms](https://img.shields.io/badge/Algorithms-%23FF9800?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-**🟣 DATABASE**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🟣 DATA SCIENCE**
-
-![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C?style=flat-square)
-![Sklearn](https://img.shields.io/badge/Sklearn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-**🟣 TOOLS & DEVOPS**
-
-![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔴 CONTRIBUTION SNAKE
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shoxruzaiskandarovan/shoxruzaiskandarovan/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/shoxruzaiskandarovan/shoxruzaiskandarovan/blob/output/github-contribution-grid-snake.svg">
-  <img alt="snake" src="https://github.com/shoxruzaiskandarovan/shoxruzaiskandarovan/blob/output/github-contribution-grid-snake-dark.svg">
-</picture>
+[![trophy](https://github-profile-trophy.vercel.app/?username=shoxruzaiskandarovan&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🔴 CONTRIBUTION GRAPH
+## 🌐 Find Me On
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoxruzaiskandarovan&theme=react-dark&hide_border=true&bg_color=0d0d0d&color=a855f7&line=a855f7&point=ff6b6b&area=true&area_color=a855f7" width="100%"/>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shoxruzaiskandarovan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shoxruzaiskandarovan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shoxruzaiskandarovan)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shoxruzaiskandarovan)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otanazarovashoxruzaa@gmail.com)
 
 </div>
 
 ---
 
-## 🔴 FULL-STACK ARCHITECTURE
+## 🐱 Coding Right Now
 
 <div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 
-```
-// full-stack architecture
+```python
+class Shoxruza:
+    def __init__(self):
+        self.name     = "Otanazarova Shoxruza"
+        self.role     = "Full-Stack Developer"
+        self.location = "Uzbekistan 🇺🇿"
+        self.skills   = ["Python", "C++", "Django", 
+                         "REST API", "PostgreSQL", 
+                         "React", "Data Science"]
+        self.motto    = "Clean code · Creative mind · Curious soul 🌸"
+    
+    def say_hi(self):
+        print(f"Hi! I'm {self.name} 🌸")
+        print(f"Let's build something amazing together! ✨")
+
+me = Shoxruza()
+me.say_hi()
 ```
 
-```
-                    ┌─────────────────────────┐
-                    │     Browser / Client     │
-                    │    React · HTML · CSS    │
-                    └────────────┬────────────┘
-                                 │
-               ┌─────────────────┴──────────────────┐
-               │                                    │
-    ┌──────────▼──────────┐            ┌────────────▼────────────┐
-    │       REST_API       │            │       C++ Engine         │
-    │   FastAPI · Django   │            │    Algorithms · OOP      │
-    └──────────┬──────────┘            └────────────┬────────────┘
-               │                                    │
-               └─────────────────┬──────────────────┘
-                                 │
-                    ┌────────────▼────────────┐
-                    │     Python Backend       │
-                    │     Django · Pandas      │
-                    └────────────┬────────────┘
-                                 │
-               ┌─────────────────┴──────────────────┐
-               │                                    │
-    ┌──────────▼──────────┐            ┌────────────▼────────────┐
-    │       Database       │            │      Data Science        │
-    │  PostgreSQL · Redis  │            │    Pandas · Sklearn      │
-    └──────────┬──────────┘            └─────────────────────────┘
-               │
-    ┌──────────▼──────────┐
-    │        DevOps        │
-    │   Docker · Git ·     │
-    │        Linux         │
-    └──────────┬──────────┘
-               │
-    ┌──────────▼──────────┐
-    │      Production      │
-    │   Deploy · Monitor   │
-    └─────────────────────┘
-```
-
-🔴 Frontend &nbsp;&nbsp; 🟢 Backend &nbsp;&nbsp; 🔵 Database &nbsp;&nbsp; 🟡 Systems &nbsp;&nbsp; 🟣 Data &nbsp;&nbsp; 🟠 DevOps
-
-</div>
-
----
-
-## 🔴 FIND ME ON
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shoxruzaiskandarovan)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shoxruzaiskandarovan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shoxruzaiskandarovan)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shoxruzaiskandarovan)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@shoxruzaiskandarovan)
-[![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shoxruzaiskandarovan)
-[![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoxruza@example.com)
-
 </div>
 
 ---
 
 <div align="center">
 
-*@shoxruzaiskandarovan · clean code · clean mind · curious soul ✨*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
-<br/>
+*✦ made with 💗 by [@shoxruzaiskandarovan](https://github.com/shoxruzaiskandarovan) · clean code · clear mind · curious soul ✦*
 
-![Profile Views](https://komarev.com/ghpvc/?username=shoxruzaiskandarovan&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=shoxruzaiskandarovan&color=FF69B4&style=for-the-badge&label=Profile+Views)
 
 </div>
