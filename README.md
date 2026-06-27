@@ -96,19 +96,19 @@ me = Shoxruza()
 
 <p align="center">
 
-<a href="https://instagram.com/shoxruza_developer">
+<a href="https://instagram.com/shoxruzaiskandarovna">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="https://t.me/YOUR_USERNAME">
+<a href="https://t.me/shoxruzaiskandarovna">
 <img src="https://skillicons.dev/icons?i=telegram"/>
 </a>
 
-<a href="mailto:shaxrzuaotanazrova@gmail.com">
+<a href="mailto:otanazarovashoxruzaa@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://linkedin.com/inshoxruzaiskandarovna">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
