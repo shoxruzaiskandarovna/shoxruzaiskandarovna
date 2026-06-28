@@ -89,6 +89,23 @@ Specializing in **Python**, **C++**, **REST APIs** & **Data Science**.
 
 ---
 
+## 🎯 Skill Level
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-95%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-80%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Django](https://img.shields.io/badge/Django-90%25-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-85%25-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-88%25-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-75%25-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-78%25-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-82%25-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -109,40 +126,43 @@ Specializing in **Python**, **C++**, **REST APIs** & **Data Science**.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shoxruzaiskandarovna&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
-## 🐱 My Code
+## 🌸 My Code
 
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220"/>
 
 ```python
 class Shoxruza:
     def __init__(self):
-        self.name     = "Otanazarova Shoxruza"
-        self.role     = "Full-Stack Developer"
-        self.location = "Uzbekistan 🇺🇿"
-        self.skills   = {
-            "languages": ["Python", "C++", "JavaScript"],
+        self.name      = "Otanazarova Shoxruza 🌸"
+        self.role      = "Full-Stack Developer"
+        self.location  = "Uzbekistan 🇺🇿"
+        self.passion   = ["Clean Code", "Data Science", "Creative UI"]
+        self.skills    = {
+            "languages": ["Python 🐍", "C++", "JavaScript"],
             "backend"  : ["Django", "FastAPI", "REST API"],
             "database" : ["PostgreSQL", "MySQL", "Redis"],
             "frontend" : ["React", "HTML5", "CSS3"],
             "data"     : ["Pandas", "NumPy", "Sklearn"],
             "devops"   : ["Docker", "Git", "Linux"]
         }
-        self.motto = "Clean code · Creative mind · Curious soul 🌸"
+        self.motto     = "Clean code · Creative mind · Curious soul ✨"
+        self.fun_fact  = "I turn coffee into code ☕→💻"
 
     def say_hi(self):
-        print(f"Hi! I'm {self.name} 🌸")
-        print("Let's build something amazing! ✨")
+        print(f"Hi! I\'m {self.name} 🌸")
+        print(f"Passion: {self.passion[0]} & {self.passion[1]}")
+        print("Let\'s build something amazing together! 💜")
+
+    def current_status(self):
+        return {
+            "learning" : "Machine Learning 🤖",
+            "building" : "Full-Stack Projects 🚀",
+            "mood"     : "Always coding 💻"
+        }
 
 me = Shoxruza()
 me.say_hi()
