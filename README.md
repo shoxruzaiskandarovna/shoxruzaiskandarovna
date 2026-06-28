@@ -41,12 +41,12 @@ Specializing in **Python**, **C++**, **REST APIs** & **Data Science**.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=shoxruzaiskandarovan&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=FF69B4&icon_color=A855F7&text_color=ffffff&border_color=FF69B422&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoxruzaiskandarovan&layout=compact&theme=radical&bg_color=0d0d0d&title_color=FF69B4&text_color=ffffff&border_color=FF69B422&langs_count=8"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=shoxruzaiskandarovna&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=FF69B4&icon_color=A855F7&text_color=ffffff&border_color=FF69B422&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoxruzaiskandarovna&layout=compact&theme=radical&bg_color=0d0d0d&title_color=FF69B4&text_color=ffffff&border_color=FF69B422&langs_count=8"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shoxruzaiskandarovan&theme=radical&background=0d0d0d&border=FF69B422&stroke=FF69B4&ring=A855F7&fire=F59E0B&currStreakLabel=06B6D4&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shoxruzaiskandarovna&theme=radical&background=0d0d0d&border=FF69B422&stroke=FF69B4&ring=A855F7&fire=F59E0B&currStreakLabel=06B6D4&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
 
 </div>
 
@@ -93,7 +93,7 @@ Specializing in **Python**, **C++**, **REST APIs** & **Data Science**.
 
 <div align="center">
 
-![snake gif](https://github.com/shoxruzaiskandarovan/shoxruzaiskandarovan/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/shoxruzaiskandarovna/shoxruzaiskandarovna/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -103,7 +103,7 @@ Specializing in **Python**, **C++**, **REST APIs** & **Data Science**.
 
 <div align="center">
 
-[![Shoxruza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shoxruzaiskandarovan&bg_color=0d0d0d&color=FF69B4&line=A855F7&point=06B6D4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shoxruza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shoxruzaiskandarovna&bg_color=0d0d0d&color=FF69B4&line=A855F7&point=06B6D4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -113,7 +113,7 @@ Specializing in **Python**, **C++**, **REST APIs** & **Data Science**.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shoxruzaiskandarovan&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shoxruzaiskandarovna&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -156,15 +156,15 @@ me.say_hi()
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shoxruzaiskandarovan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shoxruzaiskandarovan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shoxruzaiskandarovan)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shoxruzaiskandarovan)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shoxruzaiskandarovna)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shoxruzaiskandarovna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shoxruzaiskandarovna)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shoxruzaiskandarovna)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otanazarovashoxruzaa@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shoxruzaiskandarovan&color=FF69B4&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=shoxruzaiskandarovna&color=FF69B4&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -173,5 +173,5 @@ me.say_hi()
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
-*✦ made with 💗 by [@shoxruzaiskandarovan](https://github.com/shoxruzaiskandarovan) · clean code · clear mind · curious soul ✦*
+*✦ made with 💗 by [@shoxruzaiskandarovna](https://github.com/shoxruzaiskandarovna) · clean code · clear mind · curious soul ✦*
 </div>
